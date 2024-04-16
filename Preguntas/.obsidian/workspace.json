@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "67820d4110f23a0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b452b2d25e8ed9a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "355635577bcce7c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Preguntas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a8067be4e93878db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1a763994da420cf",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b428324c306c38e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "0632a89a6aa9796c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7dcaa5b652c5c06",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b4e86399d046b1c5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e150f3023e1bacbc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dffee758f90f84e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec5a0e51705a89fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71392e06834d6af1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Preguntas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ba69b93403714470",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Preguntas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fede1bcb6a560f57",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f9c585d7c4796590",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Preguntas.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "355635577bcce7c9",
+  "lastOpenFiles": [
+    "12/teoria.txt",
+    "12/preguntas.txt",
+    "12",
+    "Nueva carpeta",
+    "Preguntas.md"
+  ]
+}
