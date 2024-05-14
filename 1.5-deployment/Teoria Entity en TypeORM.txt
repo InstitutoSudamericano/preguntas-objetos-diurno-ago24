@@ -1,0 +1,29 @@
+¿Cuál es el propósito principal de la anotación @Entity en TypeORM?
+
+A) Indicar que una clase representa una entidad en la base de datos.
+B) Definir una relación uno a uno entre dos entidades.
+C) Especificar una consulta SQL personalizada para una entidad.
+D) Indicar una relación muchos a muchos entre dos entidades.
+
+Justificación: La respuesta correcta es A). La anotación @Entity en TypeORM se utiliza para indicar que una clase TypeScript es una entidad que se mapea a una tabla en la base de datos relacional. Esta anotación es fundamental para definir las entidades y su relación con las tablas de la base de datos.
+
+¿Qué representan las relaciones definidas con las anotaciones @OneToOne y @OneToMany en TypeORM?
+
+A) Una relación de uno a uno y uno a muchos respectivamente entre dos entidades.
+B) Una relación de uno a muchos y muchos a muchos respectivamente entre dos entidades.
+C) Una relación de muchos a uno y muchos a muchos respectivamente entre dos entidades.
+D) Una relación de uno a uno y muchos a uno respectivamente entre dos entidades.
+
+Justificación: La respuesta correcta es A). Las anotaciones @OneToOne y @OneToMany en TypeORM se utilizan para definir relaciones entre entidades. @OneToOne representa una relación de uno a uno entre dos entidades, mientras que @OneToMany representa una relación de uno a muchos.
+
+
+¿Cómo se relaciona una entidad en TypeORM con una tabla en la base de datos relacional?
+
+A) Cada entidad se corresponde con una tabla en la base de datos y cada instancia de la clase representa una fila en esa tabla.
+B) Las entidades se representan como vistas en la base de datos, no como tablas.
+C) Cada instancia de la entidad es una columna en la tabla correspondiente.
+D) Las entidades son colecciones de documentos en una base de datos NoSQL.
+
+Justificación: La respuesta correcta es A). En TypeORM, cada entidad se corresponde directamente con una tabla en la base de datos relacional. Cada instancia de la clase representa una fila en esa tabla, con las propiedades de la clase mapeadas a las columnas de la tabla.
+
+https://youtu.be/wukZILSXiFA
